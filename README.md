@@ -1,2 +1,2 @@
 # Codenation IMDB Clone Challenge Code
-## Module 02
+## Module 01
